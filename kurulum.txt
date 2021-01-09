@@ -1,0 +1,1 @@
+tunerchip klasörünün içindeki itemi sql'e okutup tunerceil klasörünü resucesin içine atınız sonrasında server.cfgnın içine start tunerchip yazarsanız çalışır
